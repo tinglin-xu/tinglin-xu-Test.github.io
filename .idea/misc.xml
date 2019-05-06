@@ -12,7 +12,6 @@
     <exe-path />
     <config-path />
   </component>
-  <component name="PhpProjectSharedConfiguration" php_language_level="7" />
   <component name="PhpUnit">
     <phpunit_settings>
       <PhpUnitSettings />
